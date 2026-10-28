@@ -1,4 +1,4 @@
-# Hi, I'm Eliezer 👋
+# Hi, I'm Eliezer!
 
 Fullstack developer from Recife, Brazil, building web and mobile products with **TypeScript**, **React** and **NestJS**. I enjoy taking messy legacy systems and making them fast, stable and pleasant to work on.
 
