@@ -65,5 +65,4 @@ Degree in **Systems Analysis and Development**, UniFBV Wyden, Recife (2020–202
 
 <p>
   <a href="https://www.linkedin.com/in/eliezer-monteiro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:eliezermonteiro97@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge" alt="Email" /></a>
 </p>
