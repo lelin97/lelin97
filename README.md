@@ -1,6 +1,7 @@
 # Hi, I'm Eliezer!
 
-Fullstack developer from Recife, Brazil, building web and mobile products with **TypeScript**, **React** and **NestJS**. I enjoy taking messy legacy systems and making them fast, stable and pleasant to work on.
+Fullstack developer from Recife, Brazil, building web and mobile products with **TypeScript**, **React** and **NestJS**. 
+<br>I enjoy taking messy legacy systems and making them fast, stable and pleasant to work on.</br>
 
 ## 🔭 What I'm doing now
 
@@ -8,6 +9,9 @@ I'm a **Mid-level Fullstack Developer at Amigo Tech**, a health tech company bui
 
 - **Real-time audio and video transcription**, designed to take I/O load off the main database
 - **A CRM integrated with WhatsApp and Meta APIs** for real-time conversations between clinics and their clients
+- **AI agent integration** in the customer service platform, with retry logic for reliable message delivery
+- **Management dashboards** for tax compliance, customer service and team performance, with metrics broken down by queue, agent, operator and region
+- **Tax compliance features**, such as tax regime history with effective dates and the data backfill to support it
 - **A shared UI component library documented in Storybook**, used to keep components consistent across the product
 - **Refactoring legacy modules** to improve stability and performance
 - **Workflow automation and production troubleshooting** to keep releases smooth
