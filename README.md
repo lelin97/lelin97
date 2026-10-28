@@ -9,13 +9,14 @@ I enjoy taking messy legacy systems and making them fast, stable and pleasant to
 I'm a **Mid-level Fullstack Developer at [Amigo Tech](https://amigotech.com.br)**, a health tech company building clinic management software used across Brazil. I work on the platform behind accounting and tax services for healthcare clinics. Some of what I've worked on:
 
 - **Real-time audio and video transcription**, designed to take I/O load off the main database
-- **A CRM integrated with WhatsApp and Meta APIs** for real-time conversations between clinics and their clients
+- **Helped build a CRM integrated with WhatsApp and Meta APIs** for real-time conversations between clinics and their clients
 - **AI agent integration** in the customer service platform, with retry logic for reliable message delivery
-- **Management dashboards** for tax compliance, customer service and team performance, with metrics broken down by queue, agent, operator and region
+- **Management dashboards** for tax compliance, customer service and team performance, with metrics broken down by queue, agent, operator and region, several of them built end to end
 - **Tax compliance features**, such as tax regime history with effective dates, payment tracking and regulatory reports
 - **A shared UI component library documented in Storybook**, used to keep components consistent across the product
 - **Refactoring legacy modules** to improve stability and performance
-- **Production troubleshooting with Datadog** across microservices on AWS, separating real incidents from monitoring noise
+- **Production troubleshooting** across microservices on AWS, keeping the platform stable
+- **Code reviews, unit tests with Jest and mentoring junior developers** to keep quality up as the team grows
 
 ## 🛠️ Before that
 
@@ -55,11 +56,10 @@ At **APS Tecnologia** (2022–2024) I went from intern to fullstack developer, s
   <img src="https://img.shields.io/badge/Firebird-F40D12?style=for-the-badge&logo=firebird&logoColor=white" alt="Firebird" />
 </p>
 
-**Cloud & observability**
+**Cloud**
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
 </p>
 
 **Testing & tools**
