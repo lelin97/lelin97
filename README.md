@@ -6,7 +6,7 @@ I enjoy taking messy legacy systems and making them fast, stable and pleasant to
 
 ## 🔭 What I'm doing now
 
-I'm a **Mid-level Fullstack Developer at Amigo Tech**, a health tech company building clinic management software used across Brazil. I work on the platform behind accounting and tax services for healthcare clinics. Some of what I've worked on:
+I'm a **Mid-level Fullstack Developer at [Amigo Tech](https://amigotech.com.br)**, a health tech company building clinic management software used across Brazil. I work on the platform behind accounting and tax services for healthcare clinics. Some of what I've worked on:
 
 - **Real-time audio and video transcription**, designed to take I/O load off the main database
 - **A CRM integrated with WhatsApp and Meta APIs** for real-time conversations between clinics and their clients
