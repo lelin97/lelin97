@@ -6,13 +6,14 @@ I enjoy taking messy legacy systems and making them fast, stable and pleasant to
 
 ## 🔭 What I'm doing now
 
-I'm a **Mid-level Fullstack Developer at [Amigo Tech](https://amigotech.com.br)**, a health tech company building clinic management software used across Brazil. I work on the platform behind accounting and tax services for healthcare clinics. Some of what I've worked on:
+I'm a **Mid-level Fullstack Developer at [Amigo Tech](https://amigotech.com.br)**, a health tech company building clinic management software used across Brazil. I work on its SaaS for accounting, Simples Nacional tax compliance and back-office operations of clinics and doctors. Some of what I've worked on:
 
 - **Real-time audio and video transcription**, designed to take I/O load off the main database
-- **Helped build a CRM integrated with WhatsApp and Meta APIs** for real-time conversations between clinics and their clients
-- **AI agent integration** in the customer service platform, with retry logic for reliable message delivery
-- **Management dashboards** for tax compliance, customer service and team performance, with metrics broken down by queue, agent, operator and region, several of them built end to end
-- **Tax compliance features**, such as tax regime history with effective dates, payment tracking and regulatory reports
+- **Helped build the CRM our team uses to talk to clinics and doctors** in real time, integrated with WhatsApp and Meta APIs
+- **AI agent integration in the CRM**, implementing retry logic for reliable message delivery
+- **Built and improved management dashboards** for tax compliance, customer service and team performance, with metrics broken down by queue, agent, operator and region, several of them end to end
+- **Tax compliance features**, such as tax regime history with effective dates, DAS and DARF payment tracking and the DMED report
+- **Redesign of the digital certificate flow**
 - **A shared UI component library documented in Storybook**, used to keep components consistent across the product
 - **Refactoring legacy modules** to improve stability and performance
 - **Production troubleshooting** across microservices on AWS, keeping the platform stable
