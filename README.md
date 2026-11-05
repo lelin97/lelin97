@@ -21,7 +21,7 @@ I'm a **Mid-level Fullstack Developer at [Amigo Tech](https://amigotech.com.br)*
 
 ## 🛠️ Before that
 
-At **APS Tecnologia** (2022–2024) I went from intern to fullstack developer, shipping enterprise systems for clients in the automotive, financial and communication sectors, working across interfaces, APIs and database design.
+At **APS Tecnologia** (2022–2024) I went from Intern to Fullstack Developer, shipping enterprise systems for clients in the automotive, financial and communication sectors, working across interfaces, APIs and database design.
 
 ## 🧰 Tech stack
 
